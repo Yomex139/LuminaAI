@@ -1,0 +1,19 @@
+I am Daodu Oluwayomi Daniel, a Data Scientist and Electrical/Electronics Engineer passionate about leveraging AI, machine learning, and data analytics to solve real-world problems. With over 2 years of experience, I combine strong technical expertise in Python, TensorFlow, Hugging Face, SQL, and NLP with engineering problem-solving skills to deliver impactful, data-driven solutions.
+
+My portfolio demonstrates a wide range of AI projects, including:
+
+Engage-AI and MyChatbot → interactive chatbot applications built with Gradio, Hugging Face, OpenAI, and Microsoft’s Phi-3-mini models.
+
+Question-Answering App and IMDB Sentiment Classifier → NLP-based applications for text understanding and sentiment analysis.
+
+BlogPost Website (deployed on Render) → a full-stack Flask application integrated with PostgreSQL.
+
+House Price Prediction and Rock-Paper-Scissors AI → predictive modeling and computer vision using scikit-learn and transfer learning.
+
+Cassava & Beans Disease Detection Models → AI applications for precision agriculture.
+
+Beyond technical projects, my background as an Electrical Engineer has given me expertise in power systems, electrical troubleshooting, and infrastructure management, allowing me to bridge the gap between engineering and AI.
+
+I am continuously upskilling through industry-relevant courses such as the Complete Agentic AI Engineering Course (2025), Hugging Face Bootcamp, and Complete SQL and Databases Bootcamp. These experiences reflect my commitment to staying ahead in the evolving fields of LLMs, NLP, and data science.
+
+I thrive in collaborative environments, enjoy solving complex problems, and aim to contribute to AI-powered solutions in business intelligence, engineering systems, and real-world applications.
